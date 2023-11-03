@@ -1,1 +1,1 @@
-https://replit.com/@MistireDaniel/day-3-start#main.py
+https://replit.com/@appbrewery/treasure-island-end
