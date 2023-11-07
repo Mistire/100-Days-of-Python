@@ -6,7 +6,6 @@ end_of_game = False
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
 lives = 6
-print("pssst:", chosen_word)
 
 display = []
 for _ in range(len(chosen_word)):
